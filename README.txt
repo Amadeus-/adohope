@@ -17,7 +17,7 @@ This class is the main class where we will pass the backup path to its construct
 
 ## Modules folder
 
-Here all the modules that is used to parse the backup data. Modules like, ManifestDb, Photos, Contacts, etc..
+Here all the modules that are used to parse the backup data. Modules like, ManifestDb, Photos, Contacts, etc..
 
 ## Shared folder
 

@@ -1,7 +1,7 @@
 ### Adohope
 
-### DO NOT USE THIS CODE. IT IS UNDER DEVELOPMENT. USE AT YOUR RISK.
-### TinyTool is tested with iPhone backup, iPod backup and iPod backup, it works fine but with some problems in the extracted data.
+### IT IS UNDER DEVELOPMENT. USE AT YOUR RISK.
+### TinyTool has been tested with iPhone backup, iPod backup and iPod backup, it works fine but with some problems in the extracted data.
 
 Adohope is a free Apple Backup Extractor. It can extract data from iPhone backup, iPad backup and iPod backup.
 
